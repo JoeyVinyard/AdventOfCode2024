@@ -1,4 +1,4 @@
-import { readFile } from "../shared/io";
+import { readFile } from "../../shared/io";
 
 const input = readFile("inputs/01/01.1.txt");
 
