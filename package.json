@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JoeyVinyard/AdventOfCode2024#readme",
   "devDependencies": {
+    "@types/node": "^22.10.2",
     "typescript": "^5.7.2"
   }
 }
